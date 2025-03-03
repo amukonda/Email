@@ -9,7 +9,7 @@ namespace Email.Mapping
         public MappingProfile()
         {
             CreateMap<EmailRequestDto, BaseEmail>()
-            .ForMember(dest => dest.From, opt => opt.MapFrom(src => src.From ?? "Source is missing"));
+            .ForMember(dest => dest.From, opt => opt.MapFrom(src => src.Body.From ?? "Source is missing"));
 
 
             //CreateMap<Request, RequestDto>(); // Define your mappings here

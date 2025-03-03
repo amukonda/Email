@@ -152,3 +152,4 @@ C:\Users\amukonda\Documents\CBZ Work\CBZ-Email\Email\obj\Debug\net8.0\refint\Ema
 C:\Users\amukonda\Documents\CBZ Work\CBZ-Email\Email\obj\Debug\net8.0\Email.pdb
 C:\Users\amukonda\Documents\CBZ Work\CBZ-Email\Email\obj\Debug\net8.0\Email.genruntimeconfig.cache
 C:\Users\amukonda\Documents\CBZ Work\CBZ-Email\Email\obj\Debug\net8.0\ref\Email.dll
+C:\Users\amukonda\Documents\CBZ Work\CBZ-Email\Email\obj\Debug\net8.0\Email.sourcelink.json
