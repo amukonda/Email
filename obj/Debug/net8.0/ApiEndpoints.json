@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Email.Controllers.EmailController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Email/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailRequest",
+        "Type": "Email.DTOs.EmailRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Email.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
