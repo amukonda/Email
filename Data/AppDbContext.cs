@@ -1,4 +1,5 @@
-﻿using Email.Models;
+﻿using Email.DTOs;
+using Email.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Email.Data
@@ -7,21 +8,27 @@ namespace Email.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
-        public DbSet<Attachments>  attachments { get; set; }
-        public DbSet<BaseEmail>  baseEmails { get; set; }
-        public DbSet<BccEmail> bccEmails { get; set; }
-        public DbSet<CcEmail>   ccEmails { get; set; }
-        public DbSet<ToEmail>  toEmails { get; set; }
+        public DbSet<EmailDetail> Emails { get; set; }
+        public DbSet<CcRecipient> CcRecipients { get; set; }
+        public DbSet<BccRecipient> BccRecipients { get; set; }
+        public DbSet<Attachment> Attachments { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Configure RightsAuthoriser as a keyless entity
-            modelBuilder.Entity<ToEmail>()
-                .HasNoKey(); // Indicate that this entity does not have a key
+            //modelBuilder.Entity<CcRecipient>()
+            //    .HasOne(cr => cr.EmailDetails)
+            //    .WithMany(e => e.CcRecipients)
+            //    .HasForeignKey(cr => cr.EmailId);
 
-            // Add other model configurations as needed
+            //modelBuilder.Entity<BccRecipient>()
+            //    .HasOne(br => br.EmailDetails)
+            //    .WithMany(e => e.BccRecipients)
+            //    .HasForeignKey(br => br.EmailId);
+
+            //modelBuilder.Entity<Attachment>()
+            //    .HasOne(a => a.EmailDetails)
+            //    .WithMany(e => e.Attachments)
+            //    .HasForeignKey(a => a.EmailId);
         }
-
-
     }
 }

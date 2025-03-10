@@ -3,68 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\dtos\\emailrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:dtos\\emailrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\models\\emaildetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:models\\emaildetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\models\\attachments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:models\\attachments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\email.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:email.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\models\\ccemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:models\\ccemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\models\\bccemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:models\\bccemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\models\\bccrecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:models\\bccrecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\models\\toemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:models\\toemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\models\\ccrecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:models\\ccrecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\dtos\\emailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:dtos\\emailresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\email.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:email.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|c:\\users\\amukonda\\documents\\cbz work\\cbz-email\\email\\migrations\\20250304221100_initialcreate01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C74040B-3A80-4523-89ED-5AF60950C697}|Email.csproj|solutionrelative:migrations\\20250304221100_initialcreate01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,68 +78,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 307,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBoAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:40:07.18Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmailRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\DTOs\\EmailRequestDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\EmailRequestDto.cs",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\DTOs\\EmailRequestDto.cs",
-              "RelativeToolTip": "DTOs\\EmailRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:06:02.248Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Interfaces\\IEmailService.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IEmailService.cs",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Interfaces\\IEmailService.cs",
-              "RelativeToolTip": "Interfaces\\IEmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Title": "EmailDetail.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\EmailDetail.cs",
+              "RelativeDocumentMoniker": "Models\\EmailDetail.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\EmailDetail.cs",
+              "RelativeToolTip": "Models\\EmailDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:52:08.726Z"
+              "WhenOpened": "2025-03-10T10:30:06.581Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Services\\EmailService.cs",
-              "RelativeToolTip": "Services\\EmailService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Services\\EmailService.cs*",
+              "RelativeToolTip": "Services\\EmailService.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwIMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:29:28.719Z"
+              "WhenOpened": "2025-02-28T13:29:28.719Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-28T13:41:08.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BccRecipient.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\BccRecipient.cs",
+              "RelativeDocumentMoniker": "Models\\BccRecipient.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\BccRecipient.cs",
+              "RelativeToolTip": "Models\\BccRecipient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:33:39.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:00:13.518Z"
             },
             {
               "$type": "Document",
@@ -145,130 +158,156 @@
               "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
               "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Mapping\\MappingProfile.cs",
               "RelativeToolTip": "Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T13:50:29.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Controllers\\EmailController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:11:42.646Z"
+              "WhenOpened": "2025-03-04T13:24:33.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Attachments.cs",
-              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\Attachments.cs",
-              "RelativeDocumentMoniker": "Models\\Attachments.cs",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\Attachments.cs",
-              "RelativeToolTip": "Models\\Attachments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:28:29.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Attachment.cs",
-              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\Attachment.cs",
-              "RelativeDocumentMoniker": "Models\\Attachment.cs",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\Attachment.cs",
-              "RelativeToolTip": "Models\\Attachment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:07:27.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ToEmail.cs",
-              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\ToEmail.cs",
-              "RelativeDocumentMoniker": "Models\\ToEmail.cs",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\ToEmail.cs",
-              "RelativeToolTip": "Models\\ToEmail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:27:38.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T14:17:25.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "EmailSettings.cs",
               "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\EmailSettings.cs",
               "RelativeDocumentMoniker": "Models\\EmailSettings.cs",
               "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\EmailSettings.cs",
               "RelativeToolTip": "Models\\EmailSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T14:15:16.62Z"
+              "WhenOpened": "2025-03-04T13:55:44.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CcRecipient.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\CcRecipient.cs",
+              "RelativeDocumentMoniker": "Models\\CcRecipient.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\CcRecipient.cs",
+              "RelativeToolTip": "Models\\CcRecipient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:32:31.366Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:11:42.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "Models\\Attachment.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\Attachment.cs",
+              "RelativeToolTip": "Models\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:34:28.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:52:08.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250304221100_InitialCreate01.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Migrations\\20250304221100_InitialCreate01.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250304221100_InitialCreate01.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Migrations\\20250304221100_InitialCreate01.cs",
+              "RelativeToolTip": "Migrations\\20250304221100_InitialCreate01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:11:00.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\DTOs\\EmailResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmailResponseDto.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\DTOs\\EmailResponseDto.cs",
+              "RelativeToolTip": "DTOs\\EmailResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:37:52.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwC4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:40:07.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAABhwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T14:17:25.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Email.csproj",
               "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Email.csproj",
               "RelativeDocumentMoniker": "Email.csproj",
               "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Email.csproj",
               "RelativeToolTip": "Email.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-28T12:49:14.899Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CcEmail.cs",
-              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\CcEmail.cs",
-              "RelativeDocumentMoniker": "Models\\CcEmail.cs",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\CcEmail.cs",
-              "RelativeToolTip": "Models\\CcEmail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:27:55.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBMAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:40:41.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BccEmail.cs",
-              "DocumentMoniker": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\BccEmail.cs",
-              "RelativeDocumentMoniker": "Models\\BccEmail.cs",
-              "ToolTip": "C:\\Users\\amukonda\\Documents\\CBZ Work\\CBZ-Email\\Email\\Models\\BccEmail.cs",
-              "RelativeToolTip": "Models\\BccEmail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:28:10.037Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
