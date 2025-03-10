@@ -8,8 +8,8 @@ namespace Email.Mapping
     {
         public MappingProfile()
         {
-            CreateMap<EmailRequestDto, BaseEmail>()
-            .ForMember(dest => dest.From, opt => opt.MapFrom(src => src.Body.From ?? "Source is missing"));
+            CreateMap<EmailDto, BccRecipient>()
+            .ForMember(dest => dest.EmailId, opt => opt.MapFrom(src => src.Id ?? 1));
 
 
             //CreateMap<Request, RequestDto>(); // Define your mappings here

@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "emailRequest",
-        "Type": "Email.DTOs.EmailRequestDto",
+        "Type": "Email.DTOs.EmailDto",
         "IsRequired": true
       }
     ],
